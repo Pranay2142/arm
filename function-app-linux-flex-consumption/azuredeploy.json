@@ -114,8 +114,7 @@
             "properties": {
                 "accessTier": "Hot",
                 "allowSharedKeyAccess": false,
-                "allowBlobPublicAccess": false,
-                "publicNetworkAccess": "Disabled"
+                "allowBlobPublicAccess": false
             }
         },
         {
