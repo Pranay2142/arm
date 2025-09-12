@@ -113,7 +113,9 @@
             "kind": "StorageV2",
             "properties": {
                 "accessTier": "Hot",
-                "allowSharedKeyAccess": false
+                "allowSharedKeyAccess": false,
+                "allowBlobPublicAccess": false,
+                "publicNetworkAccess": "Disabled"
             }
         },
         {
